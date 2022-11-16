@@ -1,0 +1,7 @@
+.contenedor{
+    display:flex;
+    }
+.elemento{
+    width:25%;
+    background-color: rgb(216, 146, 146);
+    }
